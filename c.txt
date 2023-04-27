@@ -1,1 +1,3 @@
 Noi dung C
+
+sua doi boi bata
