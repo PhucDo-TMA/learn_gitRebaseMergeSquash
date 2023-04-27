@@ -1,4 +1,8 @@
 Noi dung a
 
+<<<<<<< HEAD
 Sua boi beta
 Sua doi boi Master
+=======
+Sua doi boi Master
+>>>>>>> 10e141a131a2acaa5c5ab431fbb5ac6f01f8e5bd
